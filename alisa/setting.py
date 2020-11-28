@@ -5,7 +5,7 @@ DEBUG = True
 ACCESS_USER = True
 
 
-SITE_URL = "http://127.0.0.1:ХУЙ-БУЙ"
+SITE_URL = "http://127.0.0.1:9000"
 
 
 SITE_ID = 2
